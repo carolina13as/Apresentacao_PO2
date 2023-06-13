@@ -1,0 +1,11 @@
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Apresentacao de Po2\Apresentacao de Po2\bin\Debug\Apresentacao de Po2.exe.config
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Apresentacao de Po2\Apresentacao de Po2\bin\Debug\Apresentacao de Po2.exe
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Apresentacao de Po2\Apresentacao de Po2\bin\Debug\Apresentacao de Po2.pdb
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Apresentacao de Po2\Apresentacao de Po2\obj\Debug\Apresentacao de Po2.csproj.AssemblyReference.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Apresentacao de Po2\Apresentacao de Po2\obj\Debug\Apresentacao de Po2.csproj.SuggestedBindingRedirects.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Apresentacao de Po2\Apresentacao de Po2\obj\Debug\Apresentacao_de_Po2.Form1.resources
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Apresentacao de Po2\Apresentacao de Po2\obj\Debug\Apresentacao_de_Po2.Properties.Resources.resources
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Apresentacao de Po2\Apresentacao de Po2\obj\Debug\Apresentacao de Po2.csproj.GenerateResource.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Apresentacao de Po2\Apresentacao de Po2\obj\Debug\Apresentacao de Po2.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Apresentacao de Po2\Apresentacao de Po2\obj\Debug\Apresentacao de Po2.exe
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Apresentacao de Po2\Apresentacao de Po2\obj\Debug\Apresentacao de Po2.pdb
